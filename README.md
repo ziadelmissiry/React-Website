@@ -13,3 +13,6 @@ npm install
 npm run dev
 ```
 
+# screenshot
+
+https://github.com/user-attachments/assets/0c65a62e-caac-4979-a8e1-432bc93d7a42
